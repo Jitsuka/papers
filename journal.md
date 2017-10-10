@@ -18,3 +18,7 @@ foo bar
 
 # Methodology
 Compared simulations from model Y (Smith et al, 2005) with our measurements
+
+# Conclusions
+We have made fantastic insights into the particle formation process. Marvellous.
+Nonetheless, questions remain unanswered, give us moar dosh please.
