@@ -26,3 +26,5 @@ Our simulations were awesome at reproducing measurements.
 We have made fantastic insights into the particle formation process. Marvellous.
 Nonetheless, questions remain unanswered, give us moar dosh please.
 
+# Figures
+Add figures here ... it's a draft (man).
