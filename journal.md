@@ -6,6 +6,8 @@ Some gubbins and emphasising measurements
 
 Some gubbins with John's awesomeness
 
+# Abstract
+Abstracts are hard to write - that's why we do it this way...
 
 # Introduction section
 Once upon a time there was a little sausage called Baldrick
