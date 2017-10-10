@@ -28,3 +28,6 @@ Nonetheless, questions remain unanswered, give us moar dosh please.
 
 # Figures
 Add figures here ... it's a draft (man).
+
+# Acknowledgements
+We would like to thank our EU funding body. :(
