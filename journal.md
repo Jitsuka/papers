@@ -1,8 +1,8 @@
 # Author
-Jason Kennedy
+Jason Kennedy and John Awesome
 
 # Title
-Some gubbins 
+Some gubbins with John's awesomeness
 
 # Introduction section
 Once upon a time there was a little sausage called Baldrick
