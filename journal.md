@@ -1,5 +1,7 @@
 # Author
-Jason Kennedy and John Awesome
+
+Jason Kennedy
+John Awesome
 
 # Title
 Some gubbins and emphasising measurements
