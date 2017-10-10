@@ -6,3 +6,4 @@ Some gubbins
 
 # Introduction section
 Once upon a time there was a little sausage called Baldrick
+The measurements were made using the infamous Dictionary, as described by Bloggs et al., 2004.
