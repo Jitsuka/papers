@@ -2,7 +2,7 @@
 Jason Kennedy
 
 # Title
-Some gubbins and measurements
+Some gubbins and emphasising measurements
 
 # Introduction section
 Once upon a time there was a little sausage called Baldrick
